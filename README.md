@@ -1,6 +1,7 @@
-  # Andita
+  # Andimta
 
 A companion to your bible study. [`Link`](andimta.netlify,app).
+<br>
 ![Andimta Screeshot](https://i.ibb.co/zFBQYrB/image-2023-09-28-09-36-50.png)
 
 ## To get it up and running
