@@ -2,7 +2,7 @@
 
 A companion to your bible study. [`Link`](https://andimta.netlify.app).
 <br>
-![Andimta Screeshot](https://i.ibb.co/zFBQYrB/image-2023-09-28-09-36-50.png)
+![Andimta Screeshot](https://i.ibb.co/7W081kM/bixfy.png)
 
 ## To get it up and running
 
@@ -18,11 +18,11 @@ npm install
 
 ## Environment Variables
 
-BIBLE_API_URL = https://bolls.life
+BIBLE_API_URL = https://bolls.life <br>
 PUBLIC_MAKESUIT_API_KEY = <Your_API_KEY>
 
 
-I used googles Makersuit API for church fathers an quiz features. so register [here](https://makersuite.google.com) and you will get access to it 2 or 3 days later.
+I used googles Makersuit API for church fathers and quiz features. so register [here](https://makersuite.google.com) and you will get access to it 2 or 3 days later.
 IF you can't get access to it, dm me on telegram [here](https://t.me/henacodes).
 
 After you create a new API KEY, assign it to `PUBLIC_MAKESUIT_API_KEY` variable
