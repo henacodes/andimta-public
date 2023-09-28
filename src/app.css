@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+
+/* Customize the scrollbar track */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #f5f5f500;
+}
+
+.hide-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  overflow: -moz-scrollbars-none; /* Firefox */
+}
+/* Customize the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #641ae6;
+  border-radius: 10px;
+}
+
+/* Customize the scrollbar thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #4e14b4;
+}
+
+mark {
+  background-color: #641ae6;
+  font-weight: bold;
+  padding: 0 5px;
+  border-radius: 5px;
+}
+s {
+  display: none;
+}
